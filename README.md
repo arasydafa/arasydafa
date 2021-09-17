@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true)
+![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&layout=compact)
