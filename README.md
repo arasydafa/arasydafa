@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=arasydafa&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=arasydafa&color=blue&style=flat-square&label=Visitors)
 
 ### Hi there 👋
 
