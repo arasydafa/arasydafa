@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa)
+![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true)
 
