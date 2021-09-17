@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&theme=react)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&theme=react)
