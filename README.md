@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=arasydafa&label=Visitors&style=flat)
+
 <h1 align="center">Hello Code Mate<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
