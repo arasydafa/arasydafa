@@ -1,21 +1,12 @@
-![](https://komarev.com/ghpvc/?username=arasydafa&color=blue&style=flat-square&label=Visitors)
+<h1 align="center">Hello Code Mate<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### Hi there 👋
+![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
 
-<!--
-**arasydafa/arasydafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Arasy Dafa
+- 📡 I'm currently studying Telecommunication Engineering at [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id)
+- 💻 I'm focused on learning Machine Learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 📊 Progress Development
 
@@ -70,11 +61,16 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 19/09/2021
+Last Updated on 19/09/2021
 <!--END_SECTION:waka-->
 
-![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
+### You can contact me on 📱
+- Instagram - [Arasy Dafa Sulistya Kurniawan](https://instagram.com/arasydafa)
+- Linkedin - [Arasy Dafa Sulistya Kurniawan](linkedin.com/in/arasy-dafa-sulistya-kurniawan-3783391b9)
+- Email - [Arasy Dafa Sulistya Kurniawan](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=arasy.dafa@gmail.com&su=%5BGitHub%5D%20Contacted%20from%20README.md)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&theme=react)
+<h2 align="center">Arasy Dafa S.K.</h2>
+<h6 align="center">Made with ❤️ by Me</h6>
 
-
+------
+Credit : [Arasy Dafa S.K.](https://github.com/arasydafa)
