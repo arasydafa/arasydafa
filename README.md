@@ -14,7 +14,7 @@ Hi! My name is Arasy Dafa
 ### 📊 Weekly Progress Development
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -36,16 +36,14 @@ Hi! My name is Arasy Dafa
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 15 mins        █████████████████████░░░░   85.35% 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
+Python                   1 hr 45 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        ████████████████████████░   97.69% 
-PyCharmCore              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
+VS Code                  1 hr 43 mins        ████████████████████████░   98.08% 
+PyCharmCore              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.0%
+Windows                  1 hr 45 mins        █████████████████████████   100.0%
 
 ```
 
@@ -62,7 +60,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2022 01:00:22 UTC
+ Last Updated on 27/02/2022 01:00:34 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
