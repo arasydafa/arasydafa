@@ -38,14 +38,13 @@ Hi! My name is Arasy Dafa
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Bash                     1 min               ███████████████████████░░   92.88% 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -62,7 +61,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2022 01:26:57 UTC
+ Last Updated on 16/07/2022 01:19:57 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
