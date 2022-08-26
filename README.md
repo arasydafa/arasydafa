@@ -14,7 +14,7 @@ Hi! My name is Arasy Dafa
 ### 📊 Weekly Progress Development
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,14 +38,14 @@ Hi! My name is Arasy Dafa
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     2 hrs 28 mins       ████████████████████████░   98.45% 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+Dart                     2 hrs 29 mins       ████████████████████████░   98.46% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54%
 
 🔥 Editors: 
-Android Studio           2 hrs 30 mins       █████████████████████████   100.0%
+Android Studio           2 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.0%
+Windows                  2 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -62,7 +62,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2022 01:30:35 UTC
+ Last Updated on 26/08/2022 01:24:27 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
