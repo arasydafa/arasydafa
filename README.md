@@ -6,8 +6,8 @@
 ![Arasy Dafa GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
 
 Hi! My name is Arasy Dafa
-- 📡 I'm currently studying Telecommunication Engineering at [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id)
-- 💻 I'm focused on learning Machine Learning
+- 📡 I'm Fresh Graduate of Telecommunication Engineering from [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id)
+- 💻 I'm focused on learning Cyber Security and Software Development
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
