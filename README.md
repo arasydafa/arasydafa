@@ -67,7 +67,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 ### You can contact me on 📱
 - Instagram - [Arasy Dafa Sulistya Kurniawan](https://instagram.com/arasydafa)
-- Linkedin - [Arasy Dafa Sulistya Kurniawan](linkedin.com/in/arasy-dafa-sulistya-kurniawan-3783391b9)
+- Linkedin - [Arasy Dafa Sulistya Kurniawan](https://www.linkedin.com/in/arasydafa)
 - Email - [Arasy Dafa Sulistya Kurniawan](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=arasy.dafa@gmail.com&su=%5BGitHub%5D%20Contacted%20from%20README.md)
 
 <h2 align="center">Arasy Dafa S.K.</h2>
