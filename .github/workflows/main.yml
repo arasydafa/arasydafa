@@ -26,3 +26,8 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "False"
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
