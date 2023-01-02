@@ -33,22 +33,6 @@ Hi! My name is Arasy Dafa
  > 
 > 🔑 5 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -62,7 +46,7 @@ HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/01/2023 22:12:58 UTC
+ Last Updated on 02/01/2023 22:13:08 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
