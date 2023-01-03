@@ -23,7 +23,7 @@ Hi! My name is Arasy Dafa
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
+> 🏆 1 Contributions in the Year 2023
  > 
 > 📦 373.2 kB Used in GitHub's Storage 
  > 
@@ -33,6 +33,22 @@ Hi! My name is Arasy Dafa
  > 
 > 🔑 5 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -46,7 +62,7 @@ HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 02/01/2023 22:13:08 UTC
+ Last Updated on 03/01/2023 22:14:08 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
