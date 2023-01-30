@@ -17,13 +17,13 @@ Hi! My name is Arasy Dafa
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 17 Contributions in the Year 2023
+> 🏆 6 Contributions in the Year 2023
  > 
 > 📦 373.3 kB Used in GitHub's Storage 
  > 
@@ -66,7 +66,7 @@ HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 29/01/2023 22:13:45 UTC
+ Last Updated on 30/01/2023 22:14:13 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
