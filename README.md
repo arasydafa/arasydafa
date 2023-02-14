@@ -25,7 +25,7 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 
 > 🏆 55 Contributions in the Year 2023
  > 
-> 📦 376.9 kB Used in GitHub's Storage 
+> 📦 376.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,7 +64,7 @@ HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 13/02/2023 22:14:38 UTC
+ Last Updated on 14/02/2023 22:15:43 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
