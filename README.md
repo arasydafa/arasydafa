@@ -39,15 +39,13 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 24 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   73.43 % 
-JavaScript               4 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.93 % 
-Other                    3 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.64 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -64,7 +62,7 @@ HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/02/2023 22:15:42 UTC
+ Last Updated on 16/02/2023 22:12:16 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
