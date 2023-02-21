@@ -6,7 +6,7 @@
 ![Arasy Dafa GitHub stats](https://github-readme-stats-vercel-instance-arasydafa.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
 
 Greetings! I am Arasy Dafa Sulistya Kurniawan
-- 📡 A graduate student pursuing a degree in Telecommunication Engineering from the esteemed institution of[Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id).
+- 📡 A graduate student pursuing a degree in Telecommunication Engineering from the esteemed institution of [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id).
 - 💻 My primary areas of focus encompass Cybersecurity and Software Development, as I strive to enhance my technical knowledge and skillset.
 - 🧑🏻‍💻 I am currently employed as an R&D Software Engineer at [PT. Panorama Graha Teknologi](http://panorama.co.id/). Where I am actively involved in designing, developing, and implementing various software solutions. My ultimate aim is to continuously expand my technical competencies and contribute towards the growth of my organization.
 
