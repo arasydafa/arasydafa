@@ -17,26 +17,26 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 59 Contributions in the Year 2023
- > 
 > 📦 380.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 59 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 6 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -46,7 +46,6 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in C#** 
@@ -56,13 +55,13 @@ C#                       8 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀�
 Python                   3 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.64 % 
 Dart                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
 HTML                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
-CSS                      2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.09 % 
-
+JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.55 % 
 ```
 
 
 
- Last Updated on 21/02/2023 22:12:17 UTC
+
+ Last Updated on 22/02/2023 22:10:32 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
