@@ -3,7 +3,7 @@
 <h1 align="center">Hello Code Mate 👋<!-- <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> --> </h1> 
 <br>
 
-![Arasy Dafa GitHub stats](https://github-readme-stats-vercel-instance-arasydafa.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
+![Arasy Dafa GitHub stats](https://github-readme-stats-vercel-instance-git-master-arasydafa.vercel.app/api?username=arasydafa&count_private=true&show_icons=true&theme=react)
 
 Greetings! I am Arasy Dafa Sulistya Kurniawan
 - 📡 A graduate student pursuing a degree in Telecommunication Engineering from the esteemed institution of [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id).
