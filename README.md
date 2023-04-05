@@ -39,16 +39,13 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C                        54 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.37 % 
-Bash                     26 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.34 % 
-Python                   0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.01 % 
-Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 22 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -64,7 +61,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 03/04/2023 22:10:09 UTC
+ Last Updated on 05/04/2023 22:10:12 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
