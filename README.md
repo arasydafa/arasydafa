@@ -15,7 +15,7 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 ### 📊 Weekly Progress Development
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -23,9 +23,9 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 
 **🐱 My GitHub Data** 
 
-> 📦 394.7 kB Used in GitHub's Storage 
+> 📦 396.9 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2023
+> 🏆 85 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,15 +39,17 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   27 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.61 % 
-C++                      9 mins              ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.68 % 
-Other                    6 mins              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.71 % 
+Markdown                 1 hr 47 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.97 % 
+Python                   27 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.34 % 
+C++                      9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.96 % 
+Other                    6 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.53 % 
+Red                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.20 % 
 
 🔥 Editors: 
-VS Code                  43 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  2 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-Linux                    43 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Linux                    2 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -63,7 +65,7 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 09/04/2023 22:09:44 UTC
+ Last Updated on 10/04/2023 22:10:35 UTC
 <!--END_SECTION:waka-->
 
 ### You can contact me on 📱
