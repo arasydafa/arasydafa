@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=arasydafa&label=Total+Visitors&style=flat)
+![Total Visitors](https://komarev.com/ghpvc/?username=arasydafa&label=Total+Visitors&style=flat)
+[![Wakatime Code Time](https://wakatime.com/badge/user/d704cbbf-4ce3-44ae-a9b9-b6fa69628f74.svg)](https://wakatime.com/@d704cbbf-4ce3-44ae-a9b9-b6fa69628f74)
 
 <h1 align="center">Hello Code Mate 👋<!-- <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> --> </h1> 
 <br>
