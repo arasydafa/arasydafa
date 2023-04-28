@@ -13,7 +13,7 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 📊 Weekly Progress Development
-[![Arasy Dafa Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa)](https://github.com/anuraghazra/github-readme-stats)
+[![Arasy Dafa Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&theme=react)]
 
 ### You can contact me on 📱
 - Instagram - [Arasy Dafa Sulistya Kurniawan](https://instagram.com/arasydafa)
