@@ -30,7 +30,7 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 [![Arasy Dafa's Trophy](https://github-profile-trophy.vercel.app/?username=arasydafa&theme=algolia&column=-1&rank=-C,-?&margin-w=8)](https://github.com/arasydafa)
 
 ### 🧑🏻‍💻 Stuff That I'm Currently Working On
-[![Arasy Dafa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasy&layout=compact&theme=react)](https://github.com/arasydafa)
+[![Arasy Dafa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&layout=compact&theme=react)](https://github.com/arasydafa)
 
 ### ⌚ Stuff on Which I've Spent a Lot of Time
 [![Arasy Dafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&layout=compact&theme=react)](https://github.com/arasydafa)
