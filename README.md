@@ -23,17 +23,17 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 <!-- You can create custom badges using shields.io or use pre-made ones from a website like Dev.to -->
 
 ### 📊 Stats
-![Arasy Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&show_icon=true&theme=react)
+![Arasy Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&&include_all_commits=true&rank_icon=github&show_icon=true&theme=react)
 ![Arasy Dafa's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arasydafa&theme=nord)
 
 ### 🏆 My Github Trophies
 [![Arasy Dafa's Trophy](https://github-profile-trophy.vercel.app/?username=arasydafa&theme=algolia&column=-1&rank=-C,-?&margin-w=8)](https://github.com/arasydafa)
 
 ### 🧑🏻‍💻 Stuff That I'm Currently Working On This Week 
-[![Arasy Dafa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&layout=compact&theme=react)](https://github.com/arasydafa)
+[![Arasy Dafa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&langs_count=10&layout=compact&theme=react)](https://github.com/arasydafa)
 
 ### ⌚ Stuff on Which I've Spent a Lot of Time
-[![Arasy Dafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&layout=compact&theme=react)](https://github.com/arasydafa)
+[![Arasy Dafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&langs_count=8&layout=compact&theme=react)](https://github.com/arasydafa)
 
 <!-- Your project or portfolio section goes here -->
 <!-- You can use GitHub Pages or a template from a website like Start Bootstrap to create a portfolio website -->
