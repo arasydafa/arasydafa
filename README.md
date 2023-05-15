@@ -22,23 +22,67 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 <!-- Your badge section goes here -->
 <!-- You can create custom badges using shields.io or use pre-made ones from a website like Dev.to -->
 
-### 📊 Stats
-![Arasy Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&&include_all_commits=true&rank_icon=github&show_icon=true&theme=react)
-![Arasy Dafa's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arasydafa&theme=nord)
+--- 
 
-### 🏆 My Github Trophies
+<!-- Start of GitHub Stats Card -->
+<details open>
+  <summary>
+    <h3>📊 Stats</h3>
+  </summary>
+  &nbsp;
+  
+  ![Arasy Dafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=arasydafa&count_private=true&&include_all_commits=true&rank_icon=github&show_icon=true&theme=react)
+  ![Arasy Dafa's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arasydafa&theme=nord)
+  
+</details>
+<!-- End of GitHub Stats Card -->
+
+--- 
+
+<!-- Start of GitHub Trophy Card -->
+<details>
+  <summary>
+    <h3>🏆 My Github Trophies</h3>
+  </summary>
+  &nbsp;
+  
 [![Arasy Dafa's Trophy](https://github-profile-trophy.vercel.app/?username=arasydafa&theme=algolia&column=-1&rank=-C,-?&margin-w=8)](https://github.com/arasydafa)
+</details>
+<!-- End of GitHub Trophy Card -->
 
-### ⌚ Stuff on Which I've Spent a Lot of Time 
+--- 
+
+<!-- Start of Wakatime Card -->
+<details>
+  <summary>
+    <h3>⌚ Stuff on Which I've Spent a Lot of Time</h3>
+  </summary>
+  
 [![Arasy Dafa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&langs_count=10&layout=compact&theme=react)](https://github.com/arasydafa)
+</details> 
+<!-- End of Wakatime Card -->
 
-### 🧑🏻‍💻 Things Are Included in This Repository
+--- 
+
+<!-- Start of Top Language Card -->
+<details>
+  <summary>
+    <h3>🧑🏻‍💻 Things Are Included in This Repository</h3>
+  </summary>
+
 [![Arasy Dafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&langs_count=8&layout=compact&theme=react)](https://github.com/arasydafa)
+  
+</details>
+<!-- End of Top Language Card -->
 
-<!-- Your project or portfolio section goes here -->
-<!-- You can use GitHub Pages or a template from a website like Start Bootstrap to create a portfolio website -->
+---
 
-### 🔨 My Top Projects
+<!-- Start of Repo Card -->
+<details>
+  <summary>
+    <h3>🔨 My Top Projects</h3>
+  </summary>
+
 <a href="https://github.com/arasydafa/CTF-Write-Up-Collection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=CTF-Write-Up-Collection&theme=react" />
 </a>
@@ -48,6 +92,11 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 <a href="https://github.com/arasydafa/MQTT-Client-CanSat-Competition">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=MQTT-Client-CanSat-Competition&theme=react" />
 </a>
+  
+</details>
+<!-- End of Repo Card -->
+
+---
 
 <!-- Your contact information section goes here -->
 <!-- You can add your social media links or an email contact form -->
