@@ -55,7 +55,7 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
 <!-- Start of Wakatime Card -->
 <details>
   <summary>
-    <h3>⌚ Stuff on Which I've Spent a Lot of Time</h3>
+    <h3>⌚ Stuff on Which I've Spent Most of the Time</h3>
   </summary>
   
 [![Arasy Dafa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&langs_count=10&layout=compact&theme=react)](https://github.com/arasydafa)
