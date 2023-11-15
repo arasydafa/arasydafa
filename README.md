@@ -30,8 +30,9 @@ Greetings! I am Arasy Dafa Sulistya Kurniawan
     <h3>📊 Stats</h3>
   </summary>
   &nbsp;
+  
 
-  <!-- ![Arasy Dafa's GitHub stats](https://github-readme-stats-vercel-instance-arasydafa.vercel.app/api?username=arasydafa&count_private=true&&include_all_commits=true&rank_icon=github&show_icon=true&theme=react) -->
+  ![Arasy Dafa's GitHub stats](https://github-readme-stats-arasydafa.vercel.app/api?username=arasydafa&count_private=true&&include_all_commits=true&rank_icon=github&show_icon=true&theme=react)
   ![Arasy Dafa's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arasydafa&theme=nord)
   
 </details>
