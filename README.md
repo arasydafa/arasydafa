@@ -4,111 +4,80 @@
 ![Total Visitors](https://komarev.com/ghpvc/?username=arasydafa&label=Total+Visitors&style=flat)
 [![Wakatime Code Time](https://wakatime.com/badge/user/d704cbbf-4ce3-44ae-a9b9-b6fa69628f74.svg)](https://wakatime.com/@d704cbbf-4ce3-44ae-a9b9-b6fa69628f74)
 
-<h1 align="center">Hello Code Mate 👋<!-- <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> --> </h1> 
-<br>
+<h1 align="center">Hi there!</h1>
 
-<!-- Your intro and bio goes here -->
-Greetings! I am Arasy Dafa Sulistya Kurniawan
-- 📡 A student pursuing a degree in Telecommunication Engineering from [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id).
-- 💻 My primary areas of focus encompass Cyber Security especially in Blue Team area.
-- 🧑🏻‍💻 I am currently employed as an IT Security Analyst at [IdTrust](https://idtrust.id/).
+###
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br clear="both">
+
+<h3 align="center">Cyber Security Engineer | Wazuh Ambassador</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arasydafa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://discord.com/users/611213479189413908" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://medium.com/@arasydafa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
 
-<!-- Your badge section goes here -->
-<!-- You can create custom badges using shields.io or use pre-made ones from a website like Dev.to -->
+###
 
---- 
+<div align="center">
+  <!-- 
+  <img src="https://github-readme-stats.vercel.app/api?username=arasydafa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=arasydafa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arasydafa&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  -->
+  <img src="https://github-profile-trophy.vercel.app?username=arasydafa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<!-- Start of GitHub Stats Card -->
-<details open>
-  <summary>
-    <h3>📊 Stats</h3>
-  </summary>
-  &nbsp;
-  
+<!--
+###
 
-  <!-- ![Arasy Dafa's GitHub stats](https://github-readme-stats-arasydafa.vercel.app/api?username=arasydafa&count_private=true&&include_all_commits=true&rank_icon=github&show_icon=true&theme=react) -->
-  ![Arasy Dafa's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=arasydafa&theme=nord)
-  
-</details>
-<!-- End of GitHub Stats Card -->
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&stroke=ffffff&strokeWidth=-13&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
---- 
-
-<!-- Start of GitHub Trophy Card -->
-<details>
-  <summary>
-    <h3>🏆 My Github Trophies</h3>
-  </summary>
-  &nbsp;
-  
-[![Arasy Dafa's Trophy](https://github-profile-trophy.vercel.app/?username=arasydafa&theme=algolia&column=-1&rank=-C,-?&margin-w=8)](https://github.com/arasydafa)
-</details>
-<!-- End of GitHub Trophy Card -->
-
---- 
-
-<!-- Start of Wakatime Card -->
-<details>
-  <summary>
-    <h3>⌚ Stuff on Which I've Spent Most of the Time</h3>
-  </summary>
-  
-[![Arasy Dafa's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arasydafa&langs_count=10&layout=compact&theme=react)](https://github.com/arasydafa)
-</details> 
-<!-- End of Wakatime Card -->
-
---- 
-
-<!-- Start of Top Language Card -->
-<details>
-  <summary>
-    <h3>🧑🏻‍💻 Things Are Included in This Repository</h3>
-  </summary>
-
-[![Arasy Dafa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arasydafa&langs_count=8&layout=compact&theme=react)](https://github.com/arasydafa)
-  
-</details>
-<!-- End of Top Language Card -->
-
----
-
-<!-- Start of Repo Card -->
-<details>
-  <summary>
-    <h3>🔨 My Top Projects</h3>
-  </summary>
-
-<a href="https://github.com/arasydafa/CTF-Write-Up-Collection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=CTF-Write-Up-Collection&theme=react" />
-</a>
-<a href="https://github.com/arasydafa/ADS-B-Decoder-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=ADS-B-Decoder-Simulation&theme=react" />
-</a>
-<a href="https://github.com/arasydafa/MQTT-Client-CanSat-Competition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=MQTT-Client-CanSat-Competition&theme=react" />
-</a>
-  
-</details>
-<!-- End of Repo Card -->
-
----
-
-<!-- Your contact information section goes here -->
-<!-- You can add your social media links or an email contact form -->
-
-### 📱 Contact Me
-- [Instagram](https://instagram.com/arasydafa)
-- [Linkedin](https://www.linkedin.com/in/arasydafa)
-- [Gmail](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=arasy.dafa@gmail.com&su=%5BGitHub%5D%20Contacted%20from%20README.md)
-
-<h2 align="center">Arasy Dafa S.K.</h2>
-<h6 align="center">Made with ❤️ by Me</h6>
-
-------
-Credit : [Arasy Dafa S.K.](https://github.com/arasydafa)
+###
+-->
