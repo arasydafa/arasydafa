@@ -21,11 +21,7 @@ SSH brute force (T1110), container and workload disruption (T1489), service pers
 
 ## Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective](https://medium.com/@arasydafa/file-integrity-monitoring-best-practices-with-wazuh-a-theoretical-perspective-b74fe577f1f7)
-- [How Wazuh Processes Logs: From Decoder to Rule Matching — Part 2](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-part-2-f971a9a750ec)
-- [How Wazuh Processes Logs: From Decoder to Rule Matching — Part 1](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-6c40d4dc1b21)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective](https://medium.com/@arasydafa/file-integrity-monitoring-best-practices-with-wazuh-a-theoretical-perspective-b74fe577f1f7?source=rss-c1ddee6ca906------2)- [How Wazuh Processes Logs: From Decoder to Rule Matching — Part 2](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-part-2-f971a9a750ec?source=rss-c1ddee6ca906------2)- [How Wazuh Processes Logs: From Decoder to Rule Matching — Part 1](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-6c40d4dc1b21?source=rss-c1ddee6ca906------2)<!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@arasydafa).
 
