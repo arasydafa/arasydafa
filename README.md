@@ -13,8 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arasydafa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1E3A5F&text_color=2B2F36" height="150" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arasydafa&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9DAEF&icon_color=9AB8DD&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arasydafa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" height="150" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=C9DAEF&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1E3A5F&text_color=2B2F36" height="150" alt="Top languages" />
+  </picture>
 </p>
 
 <picture>
@@ -37,16 +43,28 @@ Container and workload disruption, FIM drift, log gaps, database CRUD, and CA is
 ## Featured work
 
 <a href="https://github.com/arasydafa/vstack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=vstack&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="vstack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=vstack&hide_border=true&bg_color=00000000&title_color=C9DAEF&icon_color=9AB8DD&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=vstack&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="vstack" />
+  </picture>
 </a>
 <a href="https://github.com/arasydafa/ci-cd-security-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=ci-cd-security-lab&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="ci-cd-security-lab" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=ci-cd-security-lab&hide_border=true&bg_color=00000000&title_color=C9DAEF&icon_color=9AB8DD&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=ci-cd-security-lab&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="ci-cd-security-lab" />
+  </picture>
 </a>
 <a href="https://github.com/arasydafa/rulevis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=rulevis&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="rulevis" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=rulevis&hide_border=true&bg_color=00000000&title_color=C9DAEF&icon_color=9AB8DD&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=rulevis&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="rulevis" />
+  </picture>
 </a>
 <a href="https://github.com/arasydafa/dtn-crypto">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=dtn-crypto&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="dtn-crypto" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=dtn-crypto&hide_border=true&bg_color=00000000&title_color=C9DAEF&icon_color=9AB8DD&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=dtn-crypto&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="dtn-crypto" />
+  </picture>
 </a>
 
 ## Writing
