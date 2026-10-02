@@ -3,6 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-arasydafa.github.io-1E3A5F)](https://arasydafa.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Farasydafa-0A66C2)](https://www.linkedin.com/in/arasydafa/)
 [![Medium](https://img.shields.io/badge/Medium-%40arasydafa-000000)](https://medium.com/@arasydafa)
+[![Email](https://img.shields.io/badge/Email-arasy.dafa%40gmail.com-1E3A5F)](mailto:arasy.dafa@gmail.com)
 
 # Arasy Dafa Sulistya Kurniawan
 
@@ -70,23 +71,31 @@ Container and workload disruption, FIM drift, log gaps, database CRUD, and CA is
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective](https://medium.com/@arasydafa/file-integrity-monitoring-best-practices-with-wazuh-a-theoretical-perspective-b74fe577f1f7) · Nov 12, 2025
-- [How Wazuh Processes Logs: From Decoder to Rule Matching - Part 2](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-part-2-f971a9a750ec) · Oct 31, 2025
-- [How Wazuh Processes Logs: From Decoder to Rule Matching - Part 1](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-6c40d4dc1b21) · Jul 8, 2025
+| Title | Published |
+| --- | --- |
+| [File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective](https://medium.com/@arasydafa/file-integrity-monitoring-best-practices-with-wazuh-a-theoretical-perspective-b74fe577f1f7) | Nov 12, 2025 |
+| [How Wazuh Processes Logs: From Decoder to Rule Matching - Part 2](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-part-2-f971a9a750ec) | Oct 31, 2025 |
+| [How Wazuh Processes Logs: From Decoder to Rule Matching - Part 1](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-6c40d4dc1b21) | Jul 8, 2025 |
 <!-- BLOG-POST-LIST:END -->
-
-More on [Medium](https://medium.com/@arasydafa).
 
 ## Courses
 
-- [CyberOps Associate](https://www.credly.com/earner/earned/badge/3d05e6ea-9c87-41ad-9b4d-3c242f50e6d4) — Cisco, verify on Credly
-- [Cybersecurity Essentials](https://www.credly.com/earner/earned/badge/fc1ab135-c0f2-4f5b-b5e6-0e1f5008c8ec) — Cisco, verify on Credly
+| Course | Issuer | Proof |
+| --- | --- | --- |
+| CyberOps Associate | Cisco | [Verify on Credly](https://www.credly.com/earner/earned/badge/3d05e6ea-9c87-41ad-9b4d-3c242f50e6d4) |
+| Cybersecurity Essentials | Cisco | [Verify on Credly](https://www.credly.com/earner/earned/badge/fc1ab135-c0f2-4f5b-b5e6-0e1f5008c8ec) |
 
 ## Credentials
 
-In progress: CNSP, CBTeamer, CSEDP (SecOps Group). Planned: Security+, SC-200, BTL1. Expired but listed for history: HCIA-AI, HCIA Cloud Computing (Huawei). Wazuh Ambassador and CTF problem setter on the side.
+| Certificate | Issuer | Status |
+| --- | --- | --- |
+| CNSP | SecOps Group | ![](https://img.shields.io/badge/In_progress-1D4ED8) |
+| CBTeamer | SecOps Group | ![](https://img.shields.io/badge/In_progress-1D4ED8) |
+| CSEDP | SecOps Group | ![](https://img.shields.io/badge/In_progress-1D4ED8) |
+| Security+ | CompTIA | ![](https://img.shields.io/badge/Planned-1E3A5F) |
+| SC-200 | Microsoft | ![](https://img.shields.io/badge/Planned-1E3A5F) |
+| BTL1 | Security Blue Team | ![](https://img.shields.io/badge/Planned-1E3A5F) |
+| HCIA-AI | Huawei | ![](https://img.shields.io/badge/Expired-8A8A8A) |
+| HCIA Cloud Computing | Huawei | ![](https://img.shields.io/badge/Expired-8A8A8A) |
 
-## Reach me
-
-- Email: arasy.dafa@gmail.com
-- LinkedIn: [in/arasydafa](https://www.linkedin.com/in/arasydafa/)
+Wazuh Ambassador and CTF problem setter on the side.

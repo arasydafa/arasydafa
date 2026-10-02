@@ -26,9 +26,9 @@ def main() -> None:
         title = (item.findtext("title") or "").strip().replace("—", "-")
         link = (item.findtext("link") or "").split("?")[0].strip()
         date = parsedate_to_datetime(item.findtext("pubDate")).strftime("%b %-d, %Y")
-        lines.append(f"- [{title}]({link}) · {date}")
+        lines.append(f"| [{title}]({link}) | {date} |")
 
-    block = "\n".join(lines) + "\n"
+    block = "| Title | Published |\n| --- | --- |\n" + "\n".join(lines) + "\n"
     text = open(README, encoding="utf-8").read()
     updated = re.sub(
         f"{re.escape(START)}.*?{re.escape(END)}",
