@@ -24,14 +24,30 @@
 
 ## What I watch
 
-SSH brute force (T1110), container and workload disruption (T1489), service persistence (T1543), FIM drift (T1222), log gaps (T1070), database CRUD (T1213), CA issuance anomalies (T1553).
+[![T1110](https://img.shields.io/badge/T1110-SSH_brute_force-1E3A5F)](https://attack.mitre.org/techniques/T1110/)
+[![T1489](https://img.shields.io/badge/T1489-Service_Stop-1E3A5F)](https://attack.mitre.org/techniques/T1489/)
+[![T1543](https://img.shields.io/badge/T1543-System_Process-1E3A5F)](https://attack.mitre.org/techniques/T1543/)
+[![T1222](https://img.shields.io/badge/T1222-File_Permissions-1E3A5F)](https://attack.mitre.org/techniques/T1222/)
+[![T1070](https://img.shields.io/badge/T1070-Indicator_Removal-1E3A5F)](https://attack.mitre.org/techniques/T1070/)
+[![T1213](https://img.shields.io/badge/T1213-Info_Repositories-1E3A5F)](https://attack.mitre.org/techniques/T1213/)
+[![T1553](https://img.shields.io/badge/T1553-Subvert_Trust-1E3A5F)](https://attack.mitre.org/techniques/T1553/)
+
+Container and workload disruption, FIM drift, log gaps, database CRUD, and CA issuance anomalies round out the daily watchlist.
 
 ## Featured work
 
-- [vstack](https://github.com/arasydafa/vstack) — binary exploitation learning platform
-- [ci-cd-security-lab](https://github.com/arasydafa/ci-cd-security-lab) — interactive CI/CD security labs
-- [rulevis](https://github.com/arasydafa/rulevis) — Wazuh ruleset as an interactive graph (fork with Docker packaging)
-- [dtn-crypto](https://github.com/arasydafa/dtn-crypto) — delay tolerant network simulator with CP-ABE
+<a href="https://github.com/arasydafa/vstack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=vstack&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="vstack" />
+</a>
+<a href="https://github.com/arasydafa/ci-cd-security-lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=ci-cd-security-lab&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="ci-cd-security-lab" />
+</a>
+<a href="https://github.com/arasydafa/rulevis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=rulevis&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="rulevis" />
+</a>
+<a href="https://github.com/arasydafa/dtn-crypto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arasydafa&repo=dtn-crypto&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" alt="dtn-crypto" />
+</a>
 
 ## Writing
 
