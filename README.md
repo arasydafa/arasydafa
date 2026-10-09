@@ -73,9 +73,9 @@ Container and workload disruption, FIM drift, log gaps, database CRUD, and CA is
 <!-- BLOG-POST-LIST:START -->
 | Title | Published |
 | --- | --- |
+| [How I route SSH inside the kernel with SOCKMAP](https://medium.com/@arasydafa/how-i-route-ssh-inside-the-kernel-with-sockmap-4d102aade0e3) | Oct 9, 2026 |
 | [File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective](https://medium.com/@arasydafa/file-integrity-monitoring-best-practices-with-wazuh-a-theoretical-perspective-b74fe577f1f7) | Nov 12, 2025 |
 | [How Wazuh Processes Logs: From Decoder to Rule Matching - Part 2](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-part-2-f971a9a750ec) | Oct 31, 2025 |
-| [How Wazuh Processes Logs: From Decoder to Rule Matching - Part 1](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-6c40d4dc1b21) | Jul 8, 2025 |
 <!-- BLOG-POST-LIST:END -->
 
 ## Courses
