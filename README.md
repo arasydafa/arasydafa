@@ -1,47 +1,56 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=1E3A5F&center=true&vCenter=true&width=600&lines=SOC+Engineer;Detection+Engineering;Threat+Intelligence)](https://arasydafa.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=1E3A5F&center=true&vCenter=true&width=600&lines=Blue+Team+Engineer;Detection+Engineering;Threat+Intelligence;Deception+Technology;Cloud+Security;Security+Architecture)](https://arasydafa.github.io)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arasydafa.github.io-1E3A5F)](https://arasydafa.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Farasydafa-0A66C2)](https://www.linkedin.com/in/arasydafa/)
-[![Medium](https://img.shields.io/badge/Medium-%40arasydafa-000000)](https://medium.com/@arasydafa)
 [![Email](https://img.shields.io/badge/Email-arasy.dafa%40gmail.com-1E3A5F)](mailto:arasy.dafa@gmail.com)
 
 # Arasy Dafa Sulistya Kurniawan
 
-**SOC Engineer at Zentara.** I turn threat intel into high fidelity detections. Sigma, YARA and MITRE ATT&CK mapping to catch adversary behavior fast. Day to day that means honeypots and honeynets, TI platform integrations, and correlation rules tuned for low false positives.
+**SOC Engineer at Zentara.** Blue team practitioner specializing in **detection engineering**, **threat intelligence**, **deception technology**, **cloud security**, and **security architecture**. I turn threat intel into high-fidelity detections, build deception environments to study adversary behavior, and design resilient security architectures across cloud and hybrid environments.
+
+## Focus Areas
+
+### Detection Engineering
+- Sigma, YARA, and KQL rule development for multi-platform coverage (SIEM, EDR, Cloud)
+- MITRE ATT&CK mapping & coverage analysis to prioritize detection gaps
+- High-fidelity correlation rules tuned for low false positives
+- Detection-as-code pipelines with CI/CD integration
+
+### Threat Intelligence
+- TI platform integrations (MISP, OpenCTI) for automated enrichment
+- Threat actor profiling & campaign tracking
+- IOC management & sharing via STIX/TAXII
+- Intel-driven detection rule creation and hunting hypotheses
+
+### Deception Technology
+- Honeypot/honeynet deployment & management (Cowrie, Dionaea, T-Pot, custom)
+- Deception architecture for lateral movement detection
+- Adversary engagement & behavioral analysis in controlled environments
+- Canary tokens & breadcrumb placement for early warning
+
+### Cloud Security
+- Cloud-native detection for AWS/Azure/GCP (CloudTrail, GuardDuty, Security Hub, Defender for Cloud)
+- Container & Kubernetes runtime security (Falco, Tracee, custom eBPF)
+- IaC security scanning & policy-as-code (OPA/Rego, Checkov, tfsec)
+- CSPM/CIEM posture management and drift detection
+
+### Security Architecture
+- Zero Trust & defense-in-depth design for hybrid environments
+- Security control mapping (NIST 800-53, ISO 27001, CIS Benchmarks)
+- Data flow threat modeling (STRIDE, PASTA)
+- Secure reference architectures for cloud migration
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,docker,kubernetes,linux,aws" alt="Python, Go, Docker, Kubernetes, Linux, AWS" />
+  <img src="https://skillicons.dev/icons?i=py,go,rust,docker,kubernetes,linux,aws,azure,gcp,terraform,ansible,grafana" alt="Python, Go, Rust, Docker, Kubernetes, Linux, AWS, Azure, GCP, Terraform, Ansible, Grafana" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arasydafa&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9DAEF&icon_color=9AB8DD&text_color=A6AEB9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=arasydafa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" height="150" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=C9DAEF&text_color=A6AEB9" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1E3A5F&text_color=2B2F36" height="150" alt="Top languages" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,vscode,vim" alt="Git, GitHub, GitLab, Jenkins, VS Code, Vim" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arasydafa/arasydafa/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/arasydafa/arasydafa/output/github-snake.svg" alt="Contribution snake" />
-</picture>
-
-## What I watch
-
-[![T1110](https://img.shields.io/badge/T1110-SSH_brute_force-1E3A5F)](https://attack.mitre.org/techniques/T1110/)
-[![T1489](https://img.shields.io/badge/T1489-Service_Stop-1E3A5F)](https://attack.mitre.org/techniques/T1489/)
-[![T1543](https://img.shields.io/badge/T1543-System_Process-1E3A5F)](https://attack.mitre.org/techniques/T1543/)
-[![T1222](https://img.shields.io/badge/T1222-File_Permissions-1E3A5F)](https://attack.mitre.org/techniques/T1222/)
-[![T1070](https://img.shields.io/badge/T1070-Indicator_Removal-1E3A5F)](https://attack.mitre.org/techniques/T1070/)
-[![T1213](https://img.shields.io/badge/T1213-Info_Repositories-1E3A5F)](https://attack.mitre.org/techniques/T1213/)
-[![T1553](https://img.shields.io/badge/T1553-Subvert_Trust-1E3A5F)](https://attack.mitre.org/techniques/T1553/)
-
-Container and workload disruption, FIM drift, log gaps, database CRUD, and CA issuance anomalies round out the daily watchlist.
-
-## Featured work
+## Featured Projects
 
 <a href="https://github.com/arasydafa/vstack">
   <picture>
@@ -68,34 +77,24 @@ Container and workload disruption, FIM drift, log gaps, database CRUD, and CA is
   </picture>
 </a>
 
-## Writing
+## GitHub Stats
 
-<!-- BLOG-POST-LIST:START -->
-| Title | Published |
-| --- | --- |
-| [How I route SSH inside the kernel with SOCKMAP](https://medium.com/@arasydafa/how-i-route-ssh-inside-the-kernel-with-sockmap-4d102aade0e3) | Oct 9, 2026 |
-| [File Integrity Monitoring Best Practices with Wazuh: A Theoretical Perspective](https://medium.com/@arasydafa/file-integrity-monitoring-best-practices-with-wazuh-a-theoretical-perspective-b74fe577f1f7) | Nov 12, 2025 |
-| [How Wazuh Processes Logs: From Decoder to Rule Matching - Part 2](https://medium.com/@arasydafa/how-wazuh-processes-logs-from-decoder-to-rule-matching-part-2-f971a9a750ec) | Oct 31, 2025 |
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arasydafa&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9DAEF&icon_color=9AB8DD&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arasydafa&show_icons=true&hide_border=true&bg_color=00000000&title_color=1E3A5F&icon_color=1E3A5F&text_color=2B2F36" height="150" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C9DAEF&text_color=A6AEB9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arasydafa&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=1E3A5F&text_color=2B2F36" height="150" alt="Top languages" />
+  </picture>
+</p>
 
-## Courses
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arasydafa/arasydafa/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/arasydafa/arasydafa/output/github-snake.svg" alt="Contribution snake" />
+</picture>
 
-| Course | Issuer | Proof |
-| --- | --- | --- |
-| CyberOps Associate | Cisco | [Verify on Credly](https://www.credly.com/earner/earned/badge/3d05e6ea-9c87-41ad-9b4d-3c242f50e6d4) |
-| Cybersecurity Essentials | Cisco | [Verify on Credly](https://www.credly.com/earner/earned/badge/fc1ab135-c0f2-4f5b-b5e6-0e1f5008c8ec) |
+---
 
-## Credentials
-
-| Certificate | Issuer | Status |
-| --- | --- | --- |
-| CNSP | SecOps Group | ![](https://img.shields.io/badge/In_progress-1D4ED8) |
-| CBTeamer | SecOps Group | ![](https://img.shields.io/badge/In_progress-1D4ED8) |
-| CSEDP | SecOps Group | ![](https://img.shields.io/badge/In_progress-1D4ED8) |
-| Security+ | CompTIA | ![](https://img.shields.io/badge/Planned-1E3A5F) |
-| SC-200 | Microsoft | ![](https://img.shields.io/badge/Planned-1E3A5F) |
-| BTL1 | Security Blue Team | ![](https://img.shields.io/badge/Planned-1E3A5F) |
-| HCIA-AI | Huawei | ![](https://img.shields.io/badge/Expired-8A8A8A) |
-| HCIA Cloud Computing | Huawei | ![](https://img.shields.io/badge/Expired-8A8A8A) |
-
-Wazuh Ambassador and CTF problem setter on the side.
+Wazuh Ambassador | CTF Problem Setter | Blue Team Enthusiast
